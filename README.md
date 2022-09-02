@@ -1,2 +1,1 @@
-# Json_server_API
- API testing
+# fake-product-api-json-server
