@@ -2,12 +2,15 @@ const items = require("./data/items");
 const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
+const dbTest = require("./data/product.json")
+
 
 module.exports = {
   items,
   tags,
   brands,
-  itemTypes
+  itemTypes,
+  dbTest
 }
 
 
