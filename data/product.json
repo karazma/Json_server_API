@@ -1,5 +1,4 @@
-{
-    "posts": [
+[
       {
         "id": 2,
         "productName": "Hulk Eraser",
@@ -7,9 +6,4 @@
         "productType": "Tpys",
         "productQty": "3"
       }
-    ],
-    "comments": [],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+]
